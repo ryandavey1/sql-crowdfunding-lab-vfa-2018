@@ -5,8 +5,7 @@ CREATE TABLE projects (
   funding_goal NUMERIC,
   start_date TEXT,
   end_date TEXT
-)
-;
+  );
 
 CREATE TABLE users (
 id INTEGER PRIMARY KEY,
